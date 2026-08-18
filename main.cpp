@@ -1,7 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hei";
+    int age = 19;
+    std::cout << "Hello World";
 
     return 0;
 }
